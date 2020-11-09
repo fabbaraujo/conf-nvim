@@ -1,7 +1,7 @@
 # conf-nvim
 Configuração NVIM
 
-cd .config/nvim
+cd .config
 
 
 *clonar repositório*
